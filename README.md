@@ -99,7 +99,5 @@ Because the mock API (JSONPlaceholder) does not perfectly match the specific ass
 - **React Router**: Adding routing (e.g., `/users/add`, `/users/edit/:id`) to support deep linking.
 
 ## Submission Details
-
-- **GitHub Repository Link**: [Insert GitHub Repo Link Here]
-- **Published / Deployed Project Link**: [Insert Live URL Here]
-- **Screen Recording Link**: [Insert Video Link Here (Google Drive, Loom, or YouTube)]
+- **Published / Deployed Project Link**: https://tacnique-project.vercel.app/
+- **Screen Recording Link**:  https://drive.google.com/file/d/1lP86iU-1Ygw3Yt043AxwXb8bbECafj7r/view?usp=sharing
